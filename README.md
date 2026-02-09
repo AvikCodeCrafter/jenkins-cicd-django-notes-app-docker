@@ -6,7 +6,7 @@ An end-to-end **CI/CD pipeline** for a Django application using **Jenkins**, **D
 
 ## 🧩 Architecture Overview
 
-![CI/CD Architecture](jenkins_docker_ec2_cicd.png)
+![CI/CD Architecture](image.png)
 
 ---
 
